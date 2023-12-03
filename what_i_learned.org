@@ -1,0 +1,13 @@
+* advent of code 2023, elisp
+with smart-parens-mode
+
+1. C-M-q to format
+2. C-M-r raise sexp
+3. C-M-p or f for previous/forward sexp
+4. C-M-space to select whole sexp
+5. C-M-x execute top-level sexp
+6. C-x h to select whole buffer
+7. using "cadr" function
+
+
+
